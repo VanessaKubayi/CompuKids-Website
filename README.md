@@ -1,12 +1,12 @@
-<h1 align="center"> CompuKids Website</h1>
+<h1 align="center">CompuKids Website</h1>
 
 <p align="center">
-  A fictional educational website for kids to explore computers and technology.
+  A fictional educational website for kids to explore computers and technology. <br>
   Designed as part of my frontend development practice to demonstrate layout design, animation, and responsive UI.
 </p>
 
 <p align="center">
-  <a href="https://vanessakubayi.github.io/CompuKids-website/"><strong>🌐 Live Demo »</strong></a>
+  <a href="https://vanessakubayi.github.io/CompuKids-Website/"><strong>🌐 Live Demo »</strong></a>
 </p>
 
 ---
@@ -14,7 +14,6 @@
 ## 📸 Preview
 
 <img width="300" height="150" alt="compukids-screenshot" src="https://github.com/user-attachments/assets/f9675b6e-b020-4195-b566-8b1f1d8dbd6e" />
-
 
 ## 🛠️ Technologies Used
 
@@ -40,9 +39,10 @@
 **Vanessa Risuna Kubayi**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vanessa-risuna-kubayi-2b3b73190/)
 
----Temporary update to trigger GitHub Pages
-
+---
 
 ## 🚀 Live Demo
 
-👉 [https://vanessakubayi.github.io/CompuKids-website/](https://vanessakubayi.github.io/CompuKids-website/)
+👉 [https://vanessakubayi.github.io/CompuKids-Website/](https://vanessakubayi.github.io/CompuKids-Website/)
+
+
