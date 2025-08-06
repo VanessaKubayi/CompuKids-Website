@@ -1,7 +1,7 @@
 <h1 align="center"> CompuKids Website</h1>
 
 <p align="center">
-  A fictional educational website for kids to explore computers, technology, and STEM topics.
+  A fictional educational website for kids to explore computers and technology.
   Designed as part of my frontend development practice to demonstrate layout design, animation, and responsive UI.
 </p>
 
