@@ -13,10 +13,8 @@
 
 ## 📸 Preview
 
-![CompuKids Preview](images/compukids-screenshot.png)  
-<!-- Upload a screenshot and save as compukids-screenshot.png in the images/ folder -->
+<img width="1876" height="920" alt="compukids-screenshot" src="https://github.com/user-attachments/assets/f9675b6e-b020-4195-b566-8b1f1d8dbd6e" />
 
----
 
 ## 🛠️ Technologies Used
 
