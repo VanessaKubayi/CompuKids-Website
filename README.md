@@ -13,7 +13,7 @@
 
 ## 📸 Preview
 
-<img width="1876" height="920" alt="compukids-screenshot" src="https://github.com/user-attachments/assets/f9675b6e-b020-4195-b566-8b1f1d8dbd6e" />
+<img width="300" height="150" alt="compukids-screenshot" src="https://github.com/user-attachments/assets/f9675b6e-b020-4195-b566-8b1f1d8dbd6e" />
 
 
 ## 🛠️ Technologies Used
