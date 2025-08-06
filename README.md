@@ -40,7 +40,8 @@
 **Vanessa Risuna Kubayi**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vanessa-risuna-kubayi-2b3b73190/)
 
----
+---Temporary update to trigger GitHub Pages
+
 
 ## 🚀 Live Demo
 
